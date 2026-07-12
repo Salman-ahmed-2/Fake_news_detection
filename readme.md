@@ -67,7 +67,7 @@ RF Prediction: Fake News
 
 **Note:** stemming + TF-IDF fitting on the whole dataset can take a minute or two depending on dataset size — this is expected, not a hang.
 
-## 5. Known issues to fix later
+<!-- ## 5. Known issues to fix later
 
 - The two `for i in range(...)` loops meant to drop the last rows used for manual testing don't actually iterate (the start/stop/step values don't produce a valid range), so those rows currently aren't dropped from the training data. Worth revisiting so manual-test rows aren't also used for training.
-- Model accuracy isn't printed to the console — add `print(lr.score(...))` etc. (or log them) if you want to see performance per model.
+- Model accuracy isn't printed to the console — add `print(lr.score(...))` etc. (or log them) if you want to see performance per model. -->
