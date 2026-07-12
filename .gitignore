@@ -1,0 +1,12 @@
+
+*.csv
+venv/
+ml_env/
+env/
+.venv/
+.DS_Store
+.vscode/
+.idea/
+*.pkl
+*.joblib
+*.log
