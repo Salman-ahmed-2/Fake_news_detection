@@ -1,0 +1,14 @@
+file:/home/salman/.gitconfig	user.name=salman_ahmed_2
+file:/home/salman/.gitconfig	user.email=salmanahmed32121@gmail.com
+file:/home/salman/.gitconfig	init.defaultbranch=main
+file:/home/salman/.gitconfig	pull.rebase=true
+file:/home/salman/.gitconfig	fetch.prune=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/Salman-ahmed-2/Fake_news_detection.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.vscode-merge-base=origin/main
+file:.git/config	branch.main.merge=refs/heads/main
